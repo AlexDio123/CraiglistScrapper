@@ -4,4 +4,4 @@ A web scrappers that search through Craiglist Miami using BeatifulSoup and Djang
 * How to run it:
     * Clone the repository
    * run pip install requirements.txt
-    * un python manage.py runserver
+    * run python manage.py runserver
